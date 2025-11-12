@@ -1,0 +1,5 @@
+comands docker postgres: 
+docker run --name postgresStudie02 -p 5432:5432 -e POSTGRES_PASSWORD=postgres_studie_02 -d postgres
+
+https://www.youtube.com/watch?v=H9lAT3FLHyU - part 17
+https://www.youtube.com/watch?v=EiafpCO6Bs8 - part 18
